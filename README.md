@@ -8,9 +8,13 @@ The dashboard enables data-driven insights using KPIs, visual analytics, and fil
 🚀 Features
 📌 KPI Cards
 Total Students
+
 Average Marks
+
 Average Attendance
+
 Pass Percentage
+
 Assignment Completion
 📊 Visualizations
 Performance Overview (Bar + Line Chart)
