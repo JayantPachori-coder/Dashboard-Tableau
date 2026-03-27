@@ -138,13 +138,3 @@ The dataset consists of **3000+ synthetic student records** with the following a
 * Web deployment of dashboard
 
 ---
-
-## 👨‍💻 Author
-
-**Jayant Pachori**
-
----
-
-## ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub!
